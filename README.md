@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Currently, I am a <strong>Software and Computeer Engineer student</strong>, who is really interested in <strong>mobile application</strong> development. Moreover, I am a <strong>backend developer</strong> of web applications.</p>
+<p align="center">Currently, I am a <strong>Software and Computer Engineer student</strong>, who is really interested in <strong>mobile application</strong> development. Moreover, I am a <strong>backend developer</strong> of web applications.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-* :money_with_wings:[ Kala, your income and expenses managment app]() :money_with_wings:
+* :money_with_wings:[ Kala, your income and expenses managment app](https://github.com/KandV008/Kala) :money_with_wings:
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-* :sparkles: [Twitter's clone]() :sparkles:
+* :sparkles: [Twitter's clone](https://github.com/antonioalanxs/Twitter-Clone) :sparkles:
 * :tangerine: [Frutas Manolo, your local greengrocer](https://github.com/KandV008/Frutas-Manolo) :tangerine:
 
 ###
@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KandV008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KandV008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KandV008&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
