@@ -16,7 +16,7 @@
 
 ###
 
-* :money_with_wings:[ Kala, your income and expenses managment app](https://github.com/KandV008/Kala) :money_with_wings:
+* :ear: [Project Bragi (Provisional Name), your online earphones store](https://github.com/KandV008/project-bragi) :ear:
 
 ###
 
@@ -24,6 +24,7 @@
 
 ###
 
+* :money_with_wings: [Kala, your income and expenses managment app](https://github.com/KandV008/Kala) :money_with_wings:
 * :ticket: [Theater Ticket Dispenser](https://github.com/KandV008/Theater-Ticket-Dispenser) :ticket:
 
 ###
@@ -53,25 +54,42 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="35" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
+
+
+###
 
 ###
