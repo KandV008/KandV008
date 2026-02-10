@@ -8,33 +8,29 @@
 
 ###
 
-<p align="center">Currently, I am a <strong>Software and Computer Engineer student</strong>, who is really interested in <strong>mobile application</strong> development. Moreover, I am a <strong>backend developer</strong> of web applications.</p>
+<p align="center">I am a <strong>Software and Computer Engineer</strong>, who is really interested in <strong>mobile and desktop application</strong> development. Moreover, I am a <strong>backend developer</strong> of web applications.</p>
+
+<p align="center">If you like my work or any of my repositories has been useful to you, please consider <a href="https://buymeacoffee.com/kandv008">buying me a coffee</a>.</p>
+
+## :crocodile: Main Projects
 
 ###
 
-## :black_nib: Projects in progress...
+* :ear: [AudifonosXmenos, an e-commerce of earphones and their accessories](https://audifonosxmenos.com)
+* :trophy: [Tournament Image Generator (TIG)](https://github.com/KandV008/Tournament-Image-Generator)
+* :money_with_wings: [Kala, your income and expenses managment app](https://github.com/KandV008/Kala) 
+* :clipboard: [Kango, an auto-hosted kangan board](https://github.com/KandV008/Kango-Frontend)
 
 ###
 
-* :ear: [Project Bragi (Provisional Name), your online earphones store](https://github.com/KandV008/project-bragi) :ear:
+## :raised_hands: Academic Projects
 
 ###
 
-## :crocodile: Interesting Personal Projects
-
-###
-
-* :money_with_wings: [Kala, your income and expenses managment app](https://github.com/KandV008/Kala) :money_with_wings:
-* :ticket: [Theater Ticket Dispenser](https://github.com/KandV008/Theater-Ticket-Dispenser) :ticket:
-
-###
-
-## :raised_hands: Interesting Group Projects
-
-###
-
-* :sparkles: [Twitter's clone](https://github.com/antonioalanxs/Twitter-Clone) :sparkles:
-* :tangerine: [Frutas Manolo, your local greengrocer](https://github.com/KandV008/Frutas-Manolo) :tangerine:
+* :sparkles: [Twitter's clone](https://github.com/antonioalanxs/Twitter-Clone)
+* :city_sunset: [BAMBA, measure the safety of its streets (Technical Demo)](https://github.com/KandV008/BAMBA-Technical-Demo)
+* :ticket: [Theater Ticket Dispenser](https://github.com/KandV008/Theater-Ticket-Dispenser)
+* :tangerine: [Frutas Manolo, your local greengrocer](https://github.com/KandV008/Frutas-Manolo)
 
 ###
 
@@ -43,7 +39,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KandV008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KandV008&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
